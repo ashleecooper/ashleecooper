@@ -21,3 +21,4 @@ I am Ashlee Cooper, currently working on becoming a DevOps Engineer with Level U
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleecooper&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+Be sure to have your SSH key set up and that your public key (located in ~/.ssh/id_rsa.pub) is added to your Github account.
