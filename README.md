@@ -1,6 +1,6 @@
 ### So glad you're here! 👋
 
-I am Ashlee Cooper, currently working on becoming a DevOps Engineer with Level Up In Tech. Find out more about me, check out my latest medium stories & feel free to connect with me here:
+Welcome friends! Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ashleedolancooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashleedolancooper/)](https://www.linkedin.com/in/ashleedolancooper/)
 [![Medium Badge](https://img.shields.io/badge/Ashleecooper-12100E?style=flat-square&logo=medium&logoColor=white&link=https://Ashleecooper.medium.com/)](https://ashleecooper.medium.com/)
